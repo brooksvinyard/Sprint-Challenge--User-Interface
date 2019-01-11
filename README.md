@@ -34,27 +34,27 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
-    ```Semantic HTML is a way to add meaning to web pages. Before semantic HTML, screen readers and computers could not determine much about the content of a page. Semantic HTML allows one to define portions of the page, such as: header, footer, body, or aside.```
+    Semantic HTML is a way to add meaning to web pages. Before semantic HTML, screen readers and computers could not determine much about the content of a page. Semantic HTML allows one to define portions of the page, such as: header, footer, body, or aside.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
-    ``` **display: block;** takes up the entire screen, any content next to them will be bumped down to the next line.
-    **display: inline;** does not respect height. You can use padding and margin and border with inline elements, but not width or height. ```
+    **display: block;** takes up the entire screen, any content next to them will be bumped down to the next line.
+    **display: inline;** does not respect height. You can use padding and margin and border with inline elements, but not width or height.
 
 3. What are the 4 areas of the box model?
 
-    ``` 1. content
+        1. content
         2. padding
         3. border
-        4. margin ```
+        4. margin
 
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
-    ``` **align-itmes** always works along the cross axis.```
+     **align-itmes** always works along the cross axis.
 
 5. Explain why git is valuable to a team of developers.
 
-    ``` **Git** is a valuable tool because it allows one to save a history of their work, with the ability to go back to any previous save. **Git** also allows multiple people to work on the same codebase and to separatly merge code from each individual.```
+    **Git** is a valuable tool because it allows one to save a history of their work, with the ability to go back to any previous save. **Git** also allows multiple people to work on the same codebase and to separatly merge code from each individual.
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
