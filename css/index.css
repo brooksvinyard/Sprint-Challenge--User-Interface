@@ -184,6 +184,10 @@ p {
     margin: 0 2% 20px;
     justify-content: space-around;
 }
+.bottom-content.bottom-about {
+    margin: 40px 0;
+    padding: 0 20px;
+}
 
 .bottom-content .text-container {
     padding-right: 4%;
