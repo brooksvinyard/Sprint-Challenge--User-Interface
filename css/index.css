@@ -51,6 +51,24 @@ table {
     box-sizing: border-box;
 }
 
+header nav {
+    display: flex;
+    justify-content: space-between;
+    width: 800px;
+    margin: 0 auto;
+    align-items: baseline;
+}
+
+header nav a{
+    margin: 10px 0 40px 0;
+	color: black;
+	text-decoration: none;
+}
+
+header nav a:hover {
+	color: orange;
+}
+
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
